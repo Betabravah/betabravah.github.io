@@ -11,6 +11,9 @@ I am an undergraduate Software Engineering student at Addis Ababa University, ex
 
 News
 ======
+[August 2, 2024]
 I’m happy to announce that I’ve been selected to participate in a one-year research program on Local Machine Translation Models, under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/), who is one of the [FAccT DEI Scholars](https://facctconference.org/2024/deischolars) for 2024. As one of the two BSc women chosen from Addis Ababa Institute of Technology, I am excited to contribute to this important work in advancing AI and machine translation. I’m looking forward to the challenges and learning opportunities ahead!
 
+[January 5, 2024]
 I’m excited to share that I’ve been selected as the Head of Community Education at [A2SV](https://a2sv.org/)! 🎉 In this role, I will be leading initiatives to support and empower students in their journey to mastering data structures, algorithms, and software development. I’m looking forward to working with the A2SV community to help create more opportunities for learning and growth. It’s an honor to contribute to such a vibrant and impactful community!
+
