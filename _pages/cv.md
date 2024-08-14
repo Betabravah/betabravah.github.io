@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV](https://drive.google.com/file/d/1bUP6y64-ZGW2nKW2_qK7Wtz44pknCDMj/view?usp=sharing) 📄
+
 Education
 ======
 * BSc in Software Engineering, Addis Ababa University, 2025 (expected)
