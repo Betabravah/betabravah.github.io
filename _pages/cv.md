@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BSc in Software Engineering, Addis Ababa University, 2025 (expected)
+* One-year long DSA traning, Africa to Silicon Valley A2SV, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jul. 2024 - Sep. 2024: Mobile Developer Intern
+  * Eskalate LLC
+  * Duties includes: Develop mobile app with Flutter in Clean Architecture
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2023 - Jul. 2024: Full Stack Developer
+  * Super Consult, Addis Ababa University
+  * Duties included: <ul> 
+                        <li> Develop web app using AngularJS </li>
+                        <li> Develop backend using .Net </li>
+                        <li> Quality Assurance Testing </li>
+                        <li> Author Testing Documentation </li>
+                     </ul>
+  * Supervisors: Tigabu Dagne, Betsegaw Lemma, Fikir Awoke
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2022 - Jan. 2023: Machine Learning Intern
+  * iCog Labs
+  * Duties included: Building Models
+
+* Jan. 2023 - May 2023: Software Development Intern
+  * iCog Labs
+  * Duties included: Developing frontend apps
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ✅ Programming Languages: Python, JavaScript, Dart, Java
+* ✅ Frontend Development: React.js, Angular.js, Flutter, HTML, CSS, JS, Bootstrap
+* ✅ Backend Development: Node.js, Express.js, Nest.js, .Net, Django, Flask
+* ✅ Database Management: MongoDB, MySQL, PostgreSQL
+* ✅ AI & Machine Learning: Tensorflow, Scikit-learn, Pandas, Numpy
+
 
 Publications
 ======
