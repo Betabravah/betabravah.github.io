@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate Software Engineering student at Addis Ababa University, expected to graduate in 2025. My academic journey has been complemented by various internships where I've gained hands-on experience in software development and Artificial Intelligence. Currently, I serve as the Head of Community Education at A2SV, where I help nurture the next generation of tech talent. I'm passionate about AI and am excited to be part of a one-year research program under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/).
+I am an undergraduate Software Engineering student at Addis Ababa University, expected to graduate in 2025. My academic journey has been complemented by various internships where I've gained hands-on experience in software development and Artificial Intelligence. Currently, I serve as the Head of Community Education at [A2SV](https://a2sv.org/), where I help nurture the next generation of tech talent. I'm passionate about AI and am excited to be part of a one-year research program under the mentorship of [Hellina Hailu Nigatu](https://hhnigatu.github.io/).
 
 News
 ======
