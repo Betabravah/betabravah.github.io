@@ -27,7 +27,6 @@ Work experience
       * Develop backend using .Net 
       * Quality Assurance Testing 
       * Author Testing Documentation 
-                     
   * Supervisors: Tigabu Dagne, Betsegaw Lemma, Fikir Awoke
 
 * Sep. 2022 - Jan. 2023: Machine Learning Intern
