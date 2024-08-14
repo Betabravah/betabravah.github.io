@@ -22,12 +22,12 @@ Work experience
 
 * Dec. 2023 - Jul. 2024: Full Stack Developer
   * Super Consult, Addis Ababa University
-  * Duties included: <ul> 
-                        <li> Develop web app using AngularJS </li>
-                        <li> Develop backend using .Net </li>
-                        <li> Quality Assurance Testing </li>
-                        <li> Author Testing Documentation </li>
-                     </ul>
+  * Duties included: 
+      * Develop web app using AngularJS 
+      * Develop backend using .Net 
+      * Quality Assurance Testing 
+      * Author Testing Documentation 
+                     
   * Supervisors: Tigabu Dagne, Betsegaw Lemma, Fikir Awoke
 
 * Sep. 2022 - Jan. 2023: Machine Learning Intern
