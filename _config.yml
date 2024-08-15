@@ -243,10 +243,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  _achievements
   - scope:
       path: ""
-      type: teaching
+      type: achievements
     values:
       layout: single
       author_profile: true

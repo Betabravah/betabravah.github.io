@@ -1,6 +1,6 @@
 ---
 title: "Certificate of Excellence"
-collection: teaching
+collection: achievements
 # type: "Undergraduate course"
 permalink: /achievements/certificate-of-excellence
 venue: "Addis Ababa City Adminstration Education Bureau"
