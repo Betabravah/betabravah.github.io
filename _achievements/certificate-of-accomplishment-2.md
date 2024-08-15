@@ -10,4 +10,4 @@ date: 2022-12-2
 
 Completed `Data Structures and Algorithms in Python` an online course offered by Jovian, representing approximately 60 hours of coursework.
 
-![Certificate of Excellence](https://jovian.com/certificate/MFQTOOJWGE)
+[Certificate of Excellence](https://jovian.com/certificate/MFQTOOJWGE)
