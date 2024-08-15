@@ -1,7 +1,7 @@
 ---
 title: "Certificate of Excellence"
 collection: achievements
-type: "Online course"
+type: "SSLE"
 permalink: /achievements/certificate-of-excellence
 venue: "Addis Ababa City Adminstration Education Bureau"
 date: 2021-04-15
