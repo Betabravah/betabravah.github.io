@@ -4,7 +4,7 @@ collection: achievements
 type: "Competitive Programming"
 permalink: /achievements/leetcode-success
 venue: "Leetcode"
-date: 2024-01-9
+date: 2023-06-9
 location: Leetcode
 ---
 
