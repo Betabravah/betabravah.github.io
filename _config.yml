@@ -243,7 +243,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  _achievements
+  # _achievements
   - scope:
       path: ""
       type: achievements
