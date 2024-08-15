@@ -1,7 +1,7 @@
 ---
 title: "Certificate of Excellence"
 collection: achievements
-# type: "Undergraduate course"
+type: "Online course"
 permalink: /achievements/certificate-of-excellence
 venue: "Addis Ababa City Adminstration Education Bureau"
 date: 2021-04-15

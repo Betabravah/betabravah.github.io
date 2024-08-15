@@ -1,7 +1,7 @@
 ---
 title: "Leetcode Success"
 collection: achievements
-# type: "Undergraduate course"
+type: "Competitive Programming"
 permalink: /achievements/leetcode-success
 venue: "Leetcode"
 date: 2024-01-9

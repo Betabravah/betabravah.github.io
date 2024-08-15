@@ -1,7 +1,7 @@
 ---
 title: "Certificate of Accomplishment"
 collection: achievements
-# type: "Undergraduate course"
+type: "Online course"
 permalink: /achievements/certificate-of-accomplishment-1
 venue: "Coursera"
 date: 2022-12-9
