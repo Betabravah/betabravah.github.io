@@ -10,4 +10,4 @@ location: Leetcode
 
 Achieved top 1.1% status on `LeetCode` (platform with 5M+ users) with 650+ problem solutions.
 
-[Leetcode](https://leetcode.com/betabravah/)
+👩‍🦰[Leetcode Profile](https://leetcode.com/betabravah/)
